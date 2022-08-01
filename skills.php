@@ -53,7 +53,7 @@
                         math, computers, and how the world works.
                     </p>
                 </div>
-                <img src="img/ProgressBars.svg" id="skillsShowcase" alt="" class="image-fluid w-50 d-none d-sm-block">
+                <img src="img/ProgressBars.png" id="skillsShowcase" alt="" class="image-fluid w-50 d-none d-sm-block">
             </div>
         </div>
     </section>

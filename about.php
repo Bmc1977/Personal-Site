@@ -45,7 +45,7 @@
     <section class="bg-dark text-light p-5 p-lg-0 pt-lg-5 text-center text-sm-start">
         <div class="container">
             <div class="d-sm-flex align-items-center justify-content-between">
-                <img src="img/PersonalInfo.svg " alt="" class="image-fluid mx-5 w-50 d-none d-sm-block">
+                <img src="img/PersonalInfo.png " alt="" class="image-fluid mx-5 w-50 d-none d-sm-block">
                 <div>
                     <h1 class="mx-1">Here's what I do when I'm not programming or tinkering in my homelab!</h1>
                 </div>

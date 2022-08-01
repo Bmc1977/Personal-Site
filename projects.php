@@ -55,7 +55,7 @@
                         Go to my Github!
                     </a>
                 </div>
-                <img src="img/Projects.svg" alt="" class="image-fluid w-50 d-none d-sm-block">
+                <img src="img/Projects.png" alt="" class="image-fluid w-50 d-none d-sm-block">
             </div>
         </div>
     </section>
@@ -72,17 +72,16 @@
     <section id="questions" class="p-5">
         <div class="container">
           <div class="accordion accordion-flush" id="accordionFlushExample">
-            <div class="accordion-item">
-              <h2 class="accordion-header" id="flush-headingOne">
-                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                  Python_Login
+          <div class="accordion-item">
+              <h2 class="accordion-header" id="flush-headingTwo">
+                <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseTwo" aria-expanded="false" aria-controls="flush-collapseTwo">
+                  PythonRayTracer
                 </button>
               </h2>
-              <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
+              <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
-                  This is an ongoing project where I'm learning to work with GUIs and event-driven systems. I am
-                  also learning about how to hash passwords and the best practices regarding security in this
-                  area. The project is still in very early development, but I hope to have a very nice product soon!
+                  This project is based on a YouTube tutorial that builds a very simple ray tracer. I understand that this approach is not the best because of Python's 
+                  lack of speed. I still plan on expanding this project and apply some design patterns I've been studying.
                 </div>
               </div>
             </div>
@@ -110,7 +109,7 @@
               </h2>
               <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
                 <div class="accordion-body">
-                  This project is just a very simple example of some of my skills as a Java programming. This is
+                  This project is just a very simple example of some of my skills as a Java programmer. This is
                   just a simple game where the user will try to guess the secret number and after each guess they
                   are told whether they are too high or too low.
                 </div>

@@ -45,7 +45,7 @@
     <section class="bg-dark text-light p-5 p-lg-0 pt-lg-5 text-center text-sm-start">
         <div class="container">
             <div class="d-sm-flex align-items-center justify-content-between">
-                <img src="img/Files.svg" id="files" alt="" class="image-fluid w-50 d-none d-sm-block">
+                <img src="img/Files.png" id="files" alt="" class="image-fluid w-50 d-none d-sm-block">
                 <div>
                     <h1>Interested in my <span class="text-warning">documents?</span></h1>
                     <p class="lead my-4 pl-5 ml-3">
@@ -62,9 +62,8 @@
             <h1 class="text-primary my-4">Resume</h1>
             <p>If you prefer to download it: click <a href="files/BraxtonLameyResume.pdf">here</a>.</p>
         </div>
-        <div class="align-items-center justify-content-between">
-            <embed src="files/Brochure.pdf" type="application/pdf" width="80%" height="600px" style="margin: auto;"/>
-            
+        <div class="d-flex align-items-center justify-content-between">
+            <embed src="files/BraxtonLameyResume.pdf" type="application/pdf" width="80%" height="600px" style="margin: auto;"/>
         </div>        
     </section>
 
