@@ -62,8 +62,8 @@
             <h1 class="text-primary my-4">Resume</h1>
             <p>If you prefer to download it: click <a href="files/BraxtonLameyResume.pdf">here</a>.</p>
         </div>
-        <div class="d-flex align-items-center justify-content-between">
-            <embed src="files/BraxtonLameyResume.pdf" type="application/pdf" width="80%" height="600px" style="margin: auto;"/>
+        <div class="d-flex align-items-center justify-content-between my-2">
+            <iframe src="files/BraxtonLameyResume.pdf" frameborder="10" width="60%" height="100%" style="margin: auto;"></iframe>
         </div>        
     </section>
 
