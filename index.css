@@ -1,0 +1,29 @@
+#homelink {
+    color: white;
+    text-decoration: none;
+    font-size: 150%;
+    font-family: sans-serif;
+}
+
+#homelink:hover {
+    color: grey;
+    text-decoration: none;
+    font-size: 150%;
+    font-family: sans-serif;
+}
+ 
+#skillsShowcase {
+    transform: scale(.8);
+}
+
+#files {
+    transform: scale(.8);
+}
+
+iframe {
+    display: block;
+    margin: auto;
+    width: 80%; 
+    height: 500px;
+}
+
